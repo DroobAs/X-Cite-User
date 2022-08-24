@@ -146,35 +146,6 @@ body{
 }
 /* End Main Categories */
 /* Start Digital Cards */
-/* .customSwiperContainer .carousel .carousel-control-prev ,
-.phones-personal-audio.carousel .carousel-control-prev,
-.laptops .carousel-control-prev {
-    left: 0;
-} */
-/* .customSwiperContainer .carousel .carousel-control-prev,
-.phones-personal-audio .carousel .carousel-control-prev ,
-.laptops .carousel .carousel-control-prev {
-    justify-content: left !important;
-} */
-/* .customSwiperContainer .carousel .carousel-control-next,
-.laptops .carousel .carousel-control-next,
-.phones-personal-audio .carousel .carousel-control-next{
-    justify-content: right;
-} */
-/* .customSwiperContainer .carousel .carousel-control-prev-icon ,
-.phones-personal-audio .carousel .carousel-control-prev-icon ,
-.laptops .carousel .carousel-control-prev-icon {
-    background-color: rgb(146, 146, 146);
-    padding: 40px 10px;
-    line-height: 10px;
-} */
-/* .customSwiperContainer .carousel .carousel-control-next-icon,
-.phones-personal-audio .carousel .carousel-control-next-icon ,
-.laptops .carousel .carousel-control-next-icon {
-    background-color: rgb(146, 146, 146);
-    padding: 40px 10px;
-    line-height: 10px;
-} */
 .view-all {
     color: #fff!important;
     background-color: #2688da !important;
@@ -193,10 +164,7 @@ body{
     /* position: absolute; */
     /* margin-top: 10px; */
 }
-/* .slide{ */
-    /* border-top: 1px solid black; */
-    /* border-inline-end:  1px solid black; */
-/* } */
+
 .phones-personal-audio .phones-personal-heading,
 .laptops .laptops-heading,
 .tablets .tablets-heading,

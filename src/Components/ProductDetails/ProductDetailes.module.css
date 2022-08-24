@@ -9,9 +9,7 @@
 .image img{
     width: 100%;
 }
-/* .centerDetails{
-    margin-top: 20px;
-} */
+
 .centerDetails h4{
     font-weight: 400;
 }
@@ -32,7 +30,6 @@
 .centerDetails .pricing .price{
     font-size: 1.5rem;
     font-weight: bold;
-    /* margin-right: 10px; */
 }
 .centerDetails .pricing .oldPrice{
     text-decoration: line-through;

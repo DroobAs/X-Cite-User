@@ -362,20 +362,6 @@
     margin-top: 12px;
     
 }
-/* .nav-bottom .meganav-btn .dropdown-menu {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 100%;
-    background-color: transparent;
-    /* min-width: 1100px; */
-    /* margin-top: -13px;
-    
-    background-color: #fff;
-    border: 1px solid #fff;
-    width: 100%; */
-    
-/* } */ */
 .dropdown-menu-dark .dropdown-item {
     color: #000;
     height: 30px;
@@ -746,10 +732,6 @@
     .d-md-block{
         display: block !important
     }
-    /* .nav-pills .nav-item .hd-dropdown-content{
-        /* width: 100px; */
-        /* padding: 10px; */
-    /* } */ */
     .nav-pills .nav-item .hd-dropdown-conten:first-child{
         font-size: 18px;
         padding: 8px;
