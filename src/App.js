@@ -50,8 +50,8 @@ function App() {
   favEle.href = favicon;
   return (
     <>
-      <HashRouter>
         <AuthContextProvider>
+      <HashRouter>
           <Header></Header>
           <Routes >
             <Route path="/" exact  element={<Home/>} ></Route>
@@ -90,8 +90,8 @@ function App() {
 
           </Routes>
           <Footer></Footer>
-        </AuthContextProvider>
       </HashRouter>
+        </AuthContextProvider>
     </>
   );
 }
