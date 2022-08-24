@@ -50,7 +50,7 @@ function App() {
   favEle.href = favicon;
   return (
     <>
-      <Router path='/' >
+      <Router>
         <AuthContextProvider>
           <Header></Header>
           <Routes >
