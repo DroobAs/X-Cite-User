@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/X-Cite-User/static/css/main.7ae09d40.css",
-    "main.js": "/X-Cite-User/static/js/main.43ae2bd5.js",
+    "main.js": "/X-Cite-User/static/js/main.e1583cdb.js",
     "static/js/787.41ba170b.chunk.js": "/X-Cite-User/static/js/787.41ba170b.chunk.js",
     "static/media/banner-tv-mbl.jpg": "/X-Cite-User/static/media/banner-tv-mbl.b2c91d55861136f60067.jpg",
     "static/media/fa-solid-900.ttf": "/X-Cite-User/static/media/fa-solid-900.e615bbcb258550973c16.ttf",
@@ -52,11 +52,11 @@
     "index.html": "/X-Cite-User/index.html",
     "static/media/getFetch.cjs": "/X-Cite-User/static/media/getFetch.c780682470504fffbd04.cjs",
     "main.7ae09d40.css.map": "/X-Cite-User/static/css/main.7ae09d40.css.map",
-    "main.43ae2bd5.js.map": "/X-Cite-User/static/js/main.43ae2bd5.js.map",
+    "main.e1583cdb.js.map": "/X-Cite-User/static/js/main.e1583cdb.js.map",
     "787.41ba170b.chunk.js.map": "/X-Cite-User/static/js/787.41ba170b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7ae09d40.css",
-    "static/js/main.43ae2bd5.js"
+    "static/js/main.e1583cdb.js"
   ]
 }
