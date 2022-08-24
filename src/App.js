@@ -55,7 +55,7 @@ function App() {
           <Header></Header>
           <Routes >
             <Route path="/" exact  element={<Home/>} ></Route>
-            <Route path="/home"   element={<Home/>} ></Route>
+            <Route path="/home" exact  element={<Home/>} ></Route>
             <Route path="/GiftCard" exact  element={<GiftCard/>} ></Route>
             <Route path="/ITunesCard" exact  element={<ITunesCard/>} ></Route>
             <Route path="/GooglePlayCards" exact  element={<GooglePlayCards/>} ></Route>
