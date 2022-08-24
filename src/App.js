@@ -5,7 +5,7 @@ import "./fontawesome-free-6.1.1-web/css/all.css";
 import "./fontawesome-free-6.1.1-web/css/fontawesome.css";
 import "mdb-react-ui-kit/dist/css/mdb.min.css";
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route, HashRouter } from "react-router-dom";
 import Header from "./Components/header/header";
 import Footer from "./Components/footer/footer";
 import Home from "./Components/home/home";
@@ -50,7 +50,7 @@ function App() {
   favEle.href = favicon;
   return (
     <>
-      <Router>
+      <HashRouter>
         <AuthContextProvider>
           <Header></Header>
           <Routes >
@@ -91,7 +91,7 @@ function App() {
           </Routes>
           <Footer></Footer>
         </AuthContextProvider>
-      </Router>
+      </HashRouter>
     </>
   );
 }
